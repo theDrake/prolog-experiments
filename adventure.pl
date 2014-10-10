@@ -1,8 +1,13 @@
-/*
-  I USED TO BE AN ADVENTURER LIKE YOU: A simple text adventure game utilizing
-  the Prolog programming language. Your goal is to find the treasure without
-  dying or taking an arrow in the knee!
-*/
+/******************************************************************************
+   Filename: adventure.pl
+
+     Author: David C. Drake (http://davidcdrake.com), with initial assistance
+             provided by Dr. Russ Ross (http://cit.dixie.edu/faculty/ross.php).
+
+Description: "I USED TO BE AN ADVENTURER LIKE YOU": A simple text adventure
+             game utilizing the Prolog programming language. Your goal is to
+             find the treasure without dying or taking an arrow in the knee!
+******************************************************************************/
 
 /* location descriptions */
 description(valley,
