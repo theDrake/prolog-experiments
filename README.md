@@ -1,2 +1,2 @@
 # prolog-experiments
-A repository for my experiments with the Prolog programming language.
+A repository for some of my experiments with the [Prolog](https://en.wikipedia.org/wiki/Prolog) programming language.
